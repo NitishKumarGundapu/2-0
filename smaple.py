@@ -1,3 +1,1 @@
-import math
-
-print(math.factorial(int(input())))
+#i have edited thus
