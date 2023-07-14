@@ -1,0 +1,14 @@
+ssh username@192.168.50.145
+password
+
+server: 192.168.50.145
+username: amana
+pwd: bel@123
+
+
+server: 192.168.50.160
+username: cs21mtech11006
+pwd: RGWQL4yk
+
+nvidia-smi
+gpustat
